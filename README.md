@@ -1,2 +1,2 @@
 # hello-world
-no description
+I am a mind reader
